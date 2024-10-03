@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PedrohdSilva
 - 👀 I’m interested in System Development and Analysis
-- 🌱 I’m currently learning Python and Java.
+- 🌱 I’m currently learning Java and Web Development.
 - 💞️ I’m looking to collaborate on Everything.
 
 <!---
